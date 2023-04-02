@@ -1,0 +1,21 @@
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Ayubo Drive Calculation System.exe.config
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Ayubo Drive Calculation System.exe
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Ayubo Drive Calculation System.pdb
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.csproj.AssemblyReference.cache
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.csproj.SuggestedBindingRedirects.cache
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo_Drive_Calculation_System.Form1.resources
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo_Drive_Calculation_System.Properties.Resources.resources
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.csproj.GenerateResource.cache
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.csproj.CoreCompileInputs.cache
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.exe
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.pdb
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo_Drive_Calculation_System.Form2.resources
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo_Drive_Calculation_System.Form3.resources
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo_Drive_Calculation_System.Form4.resources
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Ayubo Drive Calculation System.exe.manifest
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Ayubo Drive Calculation System.application
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.exe.manifest
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.application
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Dapper.dll
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\bin\Debug\Dapper.xml
+E:\Pearson BTech\Pearson Assignments\1st Semester\Database\Polly Pipe Databse System\Ayubo Drive Calculation System\obj\Debug\Ayubo Drive Calculation System.csproj.CopyComplete
